@@ -1,0 +1,29 @@
+.column {
+	  flex: 33.33%;
+	  height: 100%;
+	  padding: 10px;
+	  margin: 5px;
+	  background-color: #cccccc;
+	  text-align: center;
+	  padding-top: 55px;
+	}
+	.container {
+	   display: flex;
+	   margin-top: 10%;
+	}	
+	.container2{
+		display: flex;
+	   margin-top: 1%;
+	   font-size: 20px;
+	   		 padding-top: 1px;
+
+	}
+	.navbar-brand{
+		font-size: 20px;
+		 margin-top: 5px;
+		 padding-top: 1px;
+	
+	}
+	.heading{
+		 margin-top: 10px;
+	}
